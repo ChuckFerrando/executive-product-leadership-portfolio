@@ -59,6 +59,14 @@ This structure is designed to reflect how modern executive product leaders learn
 
 ---
 
+## Portfolio System
+
+See the system diagram:
+
+[Portfolio System Diagram](./diagrams/PORTFOLIO_SYSTEM_DIAGRAM.md)
+
+---
+
 ## Portfolio Repositories
 
 ### 1. [Product Leadership Operating System (PLOS)](https://github.com/ChuckFerrando/product-leadership-operating-system)
