@@ -200,7 +200,7 @@ Use the following files in each repository:
 - [Executive Product Mental Models](https://github.com/ChuckFerrando/executive-product-mental-models) → decision frameworks  
 - [Executive Product AI Fluency](https://github.com/ChuckFerrando/executive-product-ai-fluency) → tools and capabilities  
 - [Executive Product Experimentation Lab](https://github.com/ChuckFerrando/executive-product-experimentation-lab) → applied builds and prototypes  
-- [Executive Product Signal Center](https://github.com/ChuckFerrando/executive-product-signal-center) → curated market intelligence   
+- [Executive Product Signal Center](https://github.com/ChuckFerrando/executive-product-signal-center) → curated market intelligence
 
 ---
 
@@ -227,16 +227,6 @@ This repository is part of a structured executive product leadership portfolio d
 - applied product execution
 
 Each repository is intended to stand alone while also contributing to a coherent portfolio ecosystem.
-
----
-
-## Related Repositories
-
-- Product Leadership Operating System (PLOS) → system-level architecture  
-- Executive Product Mental Models → decision frameworks  
-- Executive Product AI Fluency → tools and capabilities  
-- Executive Product Experimentation Lab → applied builds and prototypes  
-- Executive Product Signal Center → curated market intelligence
 
 
 
