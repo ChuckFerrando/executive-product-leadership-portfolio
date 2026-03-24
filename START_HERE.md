@@ -21,7 +21,7 @@ It helps you understand:
 
 ### If you want the architecture first
 Start with:
-- Product Leadership Operating System (PLOS)
+- [Product Leadership Operating System (PLOS)](https://github.com/ChuckFerrando/product-leadership-operating-system)
 
 This gives you the system-level foundation for everything else in the portfolio.
 
@@ -29,7 +29,7 @@ This gives you the system-level foundation for everything else in the portfolio.
 
 ### If you want to understand how I think
 Start with:
-- Executive Product Mental Models
+- [Executive Product Mental Models](https://github.com/ChuckFerrando/executive-product-mental-models)
 
 This repository contains the frameworks and structured decision patterns behind executive product leadership.
 
@@ -37,7 +37,7 @@ This repository contains the frameworks and structured decision patterns behind 
 
 ### If you want to understand how I approach AI
 Start with:
-- Executive Product AI Fluency
+- [Executive Product AI Fluency](https://github.com/ChuckFerrando/executive-product-ai-fluency)
 
 This repository focuses on AI models, tools, implementation patterns, and executive-level capability understanding.
 
@@ -45,7 +45,7 @@ This repository focuses on AI models, tools, implementation patterns, and execut
 
 ### If you want to see proof of building and execution
 Start with:
-- Executive Product Experimentation Lab
+- [Executive Product Experimentation Lab](https://github.com/ChuckFerrando/executive-product-experimentation-lab)
 
 This repository shows how ideas are translated into prototypes and experiments.
 
@@ -53,7 +53,7 @@ This repository shows how ideas are translated into prototypes and experiments.
 
 ### If you want to see how I stay current
 Start with:
-- Executive Product Signal Center
+- [Executive Product Signal Center](https://github.com/ChuckFerrando/executive-product-signal-center)
 
 This repository organizes the external sources and signals that shape modern product judgment.
 
