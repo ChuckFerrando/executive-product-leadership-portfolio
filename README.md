@@ -61,9 +61,7 @@ This structure is designed to reflect how modern executive product leaders learn
 
 ## Portfolio System
 
-See the system diagram:
-
-[Portfolio System Diagram](./diagrams/PORTFOLIO_SYSTEM_DIAGRAM.md)
+![Portfolio System Diagram](./diagrams/portfolio-system-diagram.png)
 
 ---
 
