@@ -61,7 +61,7 @@ This structure is designed to reflect how modern executive product leaders learn
 
 ## Portfolio Repositories
 
-### 1. Product Leadership Operating System (PLOS)
+### 1. [Product Leadership Operating System (PLOS)](https://github.com/ChuckFerrando/product-leadership-operating-system)
 The canonical architecture for how modern product organizations translate:
 
 **Strategy → Governance → Delivery → Outcomes → Learning**
@@ -70,28 +70,28 @@ This is the flagship architecture repository and the foundation for the broader 
 
 ---
 
-### 2. Executive Product Mental Models
+### 2. [Executive Product Mental Models](https://github.com/ChuckFerrando/executive-product-mental-models)
 A structured system of mental models and frameworks for executive-level product strategy, prioritization, execution, and leadership.
 
 **Primary role:** thinking system
 
 ---
 
-### 3. Executive Product AI Fluency
+### 3. [Executive Product AI Fluency](https://github.com/ChuckFerrando/executive-product-ai-fluency)
 A curated guide to the AI models, tools, and implementation patterns that executive product leaders should understand and apply.
 
 **Primary role:** capability system
 
 ---
 
-### 4. Executive Product Experimentation Lab
+### 4. [Executive Product Experimentation Lab](https://github.com/ChuckFerrando/executive-product-experimentation-lab)
 A portfolio of experiments, prototypes, and AI-assisted builds that demonstrate applied product thinking and execution.
 
 **Primary role:** builder proof system
 
 ---
 
-### 5. Executive Product Signal Center
+### 5. [Executive Product Signal Center](https://github.com/ChuckFerrando/executive-product-signal-center)
 A curated intelligence layer of influencers, blogs, newsletters, podcasts, and research that informs product leadership judgment.
 
 **Primary role:** signal system
@@ -188,11 +188,11 @@ Use the following files in each repository:
 
 ## Related Repositories
 
-- Product Leadership Operating System (PLOS) → system-level architecture  
-- Executive Product Mental Models → decision frameworks  
-- Executive Product AI Fluency → tools and capabilities  
-- Executive Product Experimentation Lab → applied builds and prototypes  
-- Executive Product Signal Center → curated market intelligence  
+- [Product Leadership Operating System (PLOS)](https://github.com/ChuckFerrando/product-leadership-operating-system) → system-level architecture  
+- [Executive Product Mental Models](https://github.com/ChuckFerrando/executive-product-mental-models) → decision frameworks  
+- [Executive Product AI Fluency](https://github.com/ChuckFerrando/executive-product-ai-fluency) → tools and capabilities  
+- [Executive Product Experimentation Lab](https://github.com/ChuckFerrando/executive-product-experimentation-lab) → applied builds and prototypes  
+- [Executive Product Signal Center](https://github.com/ChuckFerrando/executive-product-signal-center) → curated market intelligence   
 
 ---
 
