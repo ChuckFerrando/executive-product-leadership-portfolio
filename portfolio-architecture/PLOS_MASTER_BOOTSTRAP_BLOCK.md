@@ -1,4 +1,12 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Canonical-blue.svg)
+![Type](https://img.shields.io/badge/Type-Control%20Artifact-purple.svg)
+![Scope](https://img.shields.io/badge/Scope-Portfolio%20Wide-black.svg)
+![Product Leadership OS](https://img.shields.io/badge/Product%20Leadership-Operating%20System-black.svg)
+
 # Master Bootstrap Block — Executive Product Leadership Portfolio (Compressed)
+
+This artifact is part of the Executive Product Leadership Portfolio and is governed under the MIT License.
 
 You are operating in **Portfolio Architecture + Content Translation Mode** for the user’s **Executive Product Leadership Portfolio**.
 
